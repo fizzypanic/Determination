@@ -1,7 +1,7 @@
 # Determination
 Adds the Determination origin to the Origins mod.  
 
-This adds a new Undertale inspired origin. It includes a couple of drawbacks and perks. If you want to contact me about the Origin  
+This adds a new Undertale inspired origin. It includes a couple of drawbacks and perks. If you want to contact me about the Origin
 with any recommendations then find me on the Official Origins Discord. I have my DM's open there for this specific reason.
 
 **Determination Origin:**
