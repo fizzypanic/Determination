@@ -17,7 +17,7 @@ This adds a new Undertale inspired origin. Maybe more will come, dunno.
 
 :yellow_circle: **Pacifist:** You don't like killing, nor damaging anything, as so, you are really weak. (Weakness 1 PERMANENTLY.)
 
-:red_circle: **Genocide Runs:** Your past loops through the Underground still haunt you. The past tends to come with bloody hands. (Can't Sleep.)
+:red_circle: **Genocide Runs:** Your past loops through the Underground still haunt you. The past tends to come with bloody hands. (Sleep is disabled.)
 
 :red_circle: **Trauma in Hotland:** The damage Hotland left on your nerves is still felt to this day, even if you're an entire universe away. (25%+ More damage from fire.)
 
