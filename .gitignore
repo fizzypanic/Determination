@@ -1,0 +1,20 @@
+# Exclude zip file since contents are extracted
+determination.zip
+
+# Common build artifacts and temporary files
+*.pyc
+__pycache__/
+.DS_Store
+*.swp
+*.tmp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
