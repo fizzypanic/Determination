@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Max health increase",
+        "attribute": "minecraft:generic.max_health",
+        "value": 10,
+        "operation": "addition"
+    },
+"name":"Pure Determination",
+"description":"You start off with more hearts than usual, thanks to your determined self."
+}

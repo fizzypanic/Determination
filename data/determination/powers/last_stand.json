@@ -1,0 +1,14 @@
+{
+    "type": "origins:action_over_time",
+"entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:regen",
+      "duration": 300,
+      "amplifier": 2
+    }
+  },
+"interval": 3000,
+"name":"Last Stand",
+"description":"Maybe with what little power you have... You can SAVE something else?"
+}

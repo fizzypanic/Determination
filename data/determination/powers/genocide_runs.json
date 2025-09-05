@@ -1,0 +1,7 @@
+{
+    "type": "origins:prevent_sleep",
+    "name": "Genocide Runs",
+    "description": "Your past loops through the Underground still haunt you. The past tends to come with bloody hands. (Sleep is disabled.)",
+    "message": "origins.cant_sleep",
+    "set_spawn_point": true
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "origins": [
+    "determination:determination"
+  ],
+  "auto_choose": false,
+  "allow_random": false,
+  "enabled": true,
+  "allow_random_unchoosable": false
+}

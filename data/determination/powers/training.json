@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Higher Movement Speed",
+        "attribute": "generic.movement_speed",
+        "value": 0.15,
+        "operation": "addition"
+    },
+"name":"Training",
+"description":"You've trained with Undyne and you're now faster than most."
+}

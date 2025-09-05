@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"determination:by",
+		"determination:pure_determination",
+		"determination:training",
+		"determination:last_stand",
+		"determination:pacifist",
+		"origins:vegetarian",
+		"determination:genocide_runs",
+		"determination:trauma_in_hotland"
+	],
+	"icon": "minecraft:stick",
+	"order": 10,
+	"impact": 2,
+	"name": "Determination",
+	"description": "A pacifist at heart. You don't like hurting anyone, no matter what they've done."
+}

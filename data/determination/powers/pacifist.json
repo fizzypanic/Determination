@@ -1,0 +1,16 @@
+{
+    "type":"origins:stacking_status_effect",
+    "min_stacks":0,
+    "max_stacks":1,
+    "duration_per_stack":20,
+    "effects":[
+       {
+          "effect":"minecraft:weakness",
+          "is_ambient":true,
+          "show_particles":false,
+          "show_icon":true
+       }
+    ],
+    "name":"Pacifist",
+    "description":"You don't like killing, nor damaging anything, as so, you are really weak. (Weakness 1 PERMANENTLY.)"
+ }

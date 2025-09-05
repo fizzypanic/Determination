@@ -1,0 +1,23 @@
+{
+    "type": "origins:invulnerability",
+    "name": "Trauma in Hotland",
+    "description": "The damage Hotland left on your nerves is still felt to this day, even if you're an entire universe away. (25%+ More damage from fire.)",
+    "condition": {
+        "type": "origins:block_in_radius",
+        "inverted": false,
+        "radius": 1,
+        "shape": "cube",
+        "comparison": "==",
+        "compare_to": 1,
+        "block_condition": {
+            "type": "origins:block",
+            "inverted": false,
+            "block": "minecraft:fire"
+        }
+    },
+    "damage_condition": {
+        "value": false,
+        "type": "origins:constant",
+        "inverted": false
+    }
+}
